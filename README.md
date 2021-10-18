@@ -1,1 +1,7 @@
-# Mission-to-Mars
+# Mission To Mars
+## This project was commissioned to scrape Mars-related articles, facts, images and compile in one site.  
+### Deliverable 3 Notes
+Changes to the index.html file to incorporate Bootstrap components include:
+* Color change for scraping button
+* Adding small element next to Mars Facts
+* Resizing Mars Facts title
